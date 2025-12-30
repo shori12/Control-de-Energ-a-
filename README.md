@@ -404,4 +404,4 @@ Para bugs o sugerencias, abrir un [Issue](https://github.com/shori12/Control-de-
 
 ⭐ Si te gustó el proyecto, dejá una estrella en GitHub!
 
-**Made with ❤️ by the FN-MUDAD Team**
+**Made with ❤️git**
