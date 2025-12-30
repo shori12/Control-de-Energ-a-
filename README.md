@@ -1,4 +1,4 @@
-# 🔌 Sistema de Control de Energía FN-MUDAD
+# 🔌 Sistema de Control de Energía
 
 Sistema de monitoreo y control de consumo eléctrico en tiempo real con dashboard interactivo, alertas automáticas y generación de reportes.
 
